@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "142918366973",
+    "firebase_url": "https://uifirebase-19.firebaseio.com",
+    "project_id": "uifirebase-19",
+    "storage_bucket": "uifirebase-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142918366973:android:d2b03d9a42e7e36c",
+        "android_client_info": {
+          "package_name": "com.example.macbookpro.trainfirebase.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142918366973-e6unt2b8a07ja9urklch42jjloeuvahh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macbookpro.trainfirebase.activity",
+            "certificate_hash": "b91715e6b39e99da1ac47966660af3b215e5b70d"
+          }
+        },
+        {
+          "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsegzlLweZAxqp1ZRuadaqd3poZuo19M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142918366973-4j7vm733b36r0ilcihdno8acob6v0tr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mastudio.co.id.firebaseios"
+              }
+            },
+            {
+              "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142918366973:android:8a40a575968dfa80",
+        "android_client_info": {
+          "package_name": "id.co.yoenas.uifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142918366973-50e5kift8p9ejiuh2bkjermsjq577l01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.yoenas.uifirebase",
+            "certificate_hash": "b91715e6b39e99da1ac47966660af3b215e5b70d"
+          }
+        },
+        {
+          "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsegzlLweZAxqp1ZRuadaqd3poZuo19M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142918366973-4j7vm733b36r0ilcihdno8acob6v0tr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mastudio.co.id.firebaseios"
+              }
+            },
+            {
+              "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142918366973:android:fcb85805ea83189a",
+        "android_client_info": {
+          "package_name": "yoenas.co.id.youtubeapiplusadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142918366973-jk7lommnn7ece0eie8ai9kidvg63ae26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yoenas.co.id.youtubeapiplusadmob",
+            "certificate_hash": "b91715e6b39e99da1ac47966660af3b215e5b70d"
+          }
+        },
+        {
+          "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsegzlLweZAxqp1ZRuadaqd3poZuo19M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142918366973-4j7vm733b36r0ilcihdno8acob6v0tr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mastudio.co.id.firebaseios"
+              }
+            },
+            {
+              "client_id": "142918366973-3vq6u8boea7b72p5cgpf06vfqlisl800.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
